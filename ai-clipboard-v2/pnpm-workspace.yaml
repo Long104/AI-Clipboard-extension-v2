@@ -5,3 +5,7 @@ ignoredBuiltDependencies:
   - lmdb
   - msgpackr-extract
   - sharp
+
+packages:
+  - "apps/*"
+  - "packages/*"
